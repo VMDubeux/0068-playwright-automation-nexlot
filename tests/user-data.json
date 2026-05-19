@@ -1,0 +1,11 @@
+{
+    "SuccessUserData": {
+        "email": "teste@lumestack.com",
+        "password": "PROCESS_ENV_PASSWORD"
+    },
+    
+    "WrongUserData":{
+        "email": "teste@teste.com",
+        "password": "WrongPassword"
+    }
+}
